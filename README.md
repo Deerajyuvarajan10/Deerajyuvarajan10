@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer, use java, html, css, react native, javascript and also using vibe coding tools to build my software
+Final Year B.Tech AI & DS student at Sethu Institute of Technology.Exposed to Core Java, Python, and SQL via academic coursework. A proactive learner seeking an entry-level position to contribute practical skills in a dynamic environment.
 
 
 ## 🌐 Socials:
